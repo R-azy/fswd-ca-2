@@ -1,0 +1,27 @@
+{
+  "name": "fswdca2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-azy/fswd-ca-2.git"
+  },
+  "keywords": [
+    "ca2"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R-azy/fswd-ca-2/issues"
+  },
+  "homepage": "https://github.com/R-azy/fswd-ca-2#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1",
+    "node.js": "^0.0.1-security"
+  }
+}
